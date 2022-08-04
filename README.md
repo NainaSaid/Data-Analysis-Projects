@@ -1,2 +1,2 @@
-# Data-Science-Projects
+# Data Analysis Projects
 Contains all Data Analysis Projects
